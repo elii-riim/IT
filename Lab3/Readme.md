@@ -16,3 +16,22 @@ Python//
 pseudo-code = Method of planning chech allows the programmer to plan without worrying about syntax. 
 interpreted language vs. a compiled language = Interpreted language executes scripted language wihtout converting them to an object code. Compiler language takes entire program and converts it into object code which is stored ina  file and can be directly executed by the machine after linking. 
 
+CollegeCentral//
+I found a internship for Hyland foe software development.
+
+Co-ops / Internships under Career Exploration//
+1) Currently enrolled at Tri-C
+2)Completed 12 credit hours of college coursework with at least two courses related to your major field. 
+3)GPA of 2.75 or higher. 
+Benefits = 1) Earn academic credit for paid employment
+2) Increase potential income upon graduation
+
+Industry Associations / Student Organizations under Career Exploration//
+Provide an educational venue in which students are able to apply the theory and practical skills they have learned in their course work and it foster a spirit of teamwork, ethical behavior, and effective communication both within and across teams.
+
+
+
+
+
+
+
