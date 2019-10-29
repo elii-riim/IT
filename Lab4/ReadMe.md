@@ -42,5 +42,5 @@ PNG = Png is simialar to a gif file but has 5 to 25 percent greater compression 
 File Properties// 
 i) My logo represents a coffee shop that serves columbian coffee beans. I used 4 - 5 layers on my logo. I mainly used the gradiant filter to show the contrast be bewteen the white and the red.
 
-ii) 
+ii) The file size og the svg file is 410KB / 407,791 bytes. The svg file on my computer opens up with sublime text and shows the html for the file. It would be better to open it with google chrome or firefox. So when I open up the file I can acually see the logo and not the html. 
 
