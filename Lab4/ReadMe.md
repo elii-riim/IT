@@ -39,5 +39,8 @@ GIF = Gifs are used to display a seqence of images similar to videos, but very s
 
 PNG = Png is simialar to a gif file but has 5 to 25 percent greater compression than a gif and a more broad range of colors compared to a gif file. And with these two files suport transparency but for png files the user can control the varible transparency, which the user can control the degree of transparency.The downside to varible transparency is some older browsers will display the transparency the same. 
 
+File Properties// 
+i) My logo represents a coffee shop that serves columbian coffee beans. I used 4 - 5 layers on my logo. I mainly used the gradiant filter to show the contrast be bewteen the white and the red.
 
+ii) 
 
