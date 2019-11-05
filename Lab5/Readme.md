@@ -24,3 +24,20 @@ a) The single point of failure is when the central hub or switch fails and it ca
 
 b) I would prefer to have a wireless mesh instead of a topology because I like the fact that there is no wired which eliminates the headache of having wires everywhere. I also like the fact that when having a wireless mesh it is very redundent. Even if one computer connection fails it will still run and all the computers will still be able to assosiate with each other. All you have to do is set up wireless access point through out a building and it will allow you to connect to the internet even when yoour not near the modem and your computer doesnt neef to be connected to the switch.
 
+NSA/CSS//
+The NSA is in charge of the nations most critical information related to the US military and intelligence services. They NSA does global monitering, collection, and processess information and data for other foreign intelligence.
+
+Cybersecurity and Encryption//
+Information System Security//
+a) Confidentiality = This would impact my job because  when talking online on a online chat you do not know who you are talking to, so you have to follow security steps and be careful so you do not give out valuable information.
+
+Integrity = This plays a role as a amazon employee because as a emplyee you are granted access to amazons data base so you have access to information the consumer never gets to see. So when you go into the database you have to have integrity and not missuse your power. You have to use it the correct way and not try to change the numbers or stocks to do something that unethical. 
+
+Availability = For a company as big as amazon you have to always be able to access information at any given time. Theres so many orders being processed everywhere and all day you have to be able to track everything. Amazon has so many consumers ordering items things are gonna happen and people are gonna have problems so they will be looking for a customer service number and thats when availability comes into play.
+
+b) 1) When I log into facebook it requires a log in authentification. When I log in i have to log into my gmail, becuase my facebook is linked to my gmail. 
+2) When i log into my school account at school is another one. This could be converted into the multi factor authentification by having the students use thier phone numbers to log in. Every once in a while when you log in it could have you put in a code to log in that is linked to your phone.
+
+c) ACL is good for giving specific users the capability to read, write, delete, or add. If the user isnt on the list it will not be granted access to the control list capabilities. The downside of using this is when you want to add or remove users from a chunk of information it will be quit difficult. As the resources and the amount of users increase it will start to get more more and difficult to maintaine. So they improved it and created a new based access control called RBAC. With rbac it gives specific users access to certain information. Certain users are assigned roles and those roles are granted access. This will allow the administrator to manage users and roles seperatly, by simplifying addministration, and extending and improving security. 
+
+d) The sender wants to send a message and keep it private so a unautherized user doesnt view it. So the sender sends it as a public key and encrypys the text and send it over to the recipient. As the message is being sent the plaintext is altered which is called ciphertext, which is unreadable. When the recipient recieves it they will have to decrypted with a private key that only the sender and the recipient have. Thats how people send private mesages to one another.  
