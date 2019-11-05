@@ -20,3 +20,7 @@ a) Switches are used on a computer network to phisically connect devices togethe
 b)Routers can connect diffrent networks, like ethernets and token ring. Routers can also choose the best path across an internetwork using advance routing techniqes. Routers also reduce network traffic by creating collision domains and broadcast domains. Routers are best used when you have multiple networks and physically networks in diffrent areas. Routing provides the backbone for many networks because routers regenerate data indefinatly across networks with no degradation. 
 
 Network Topologies//
+a) The single point of failure is when the central hub or switch fails and it causes all the computers connected to that hub crashes, because all the computers are connected to the central hub with a wire. Since all the computers are connected to its own cable if the hub goes down all the computers will go down. This tends to happen during a star topology.
+
+b) I would prefer to have a wireless mesh instead of a topology because I like the fact that there is no wired which eliminates the headache of having wires everywhere. I also like the fact that when having a wireless mesh it is very redundent. Even if one computer connection fails it will still run and all the computers will still be able to assosiate with each other. All you have to do is set up wireless access point through out a building and it will allow you to connect to the internet even when yoour not near the modem and your computer doesnt neef to be connected to the switch.
+
