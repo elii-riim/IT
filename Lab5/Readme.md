@@ -41,3 +41,24 @@ b) 1) When I log into facebook it requires a log in authentification. When I log
 c) ACL is good for giving specific users the capability to read, write, delete, or add. If the user isnt on the list it will not be granted access to the control list capabilities. The downside of using this is when you want to add or remove users from a chunk of information it will be quit difficult. As the resources and the amount of users increase it will start to get more more and difficult to maintaine. So they improved it and created a new based access control called RBAC. With rbac it gives specific users access to certain information. Certain users are assigned roles and those roles are granted access. This will allow the administrator to manage users and roles seperatly, by simplifying addministration, and extending and improving security. 
 
 d) The sender wants to send a message and keep it private so a unautherized user doesnt view it. So the sender sends it as a public key and encrypys the text and send it over to the recipient. As the message is being sent the plaintext is altered which is called ciphertext, which is unreadable. When the recipient recieves it they will have to decrypted with a private key that only the sender and the recipient have. Thats how people send private mesages to one another.  
+
+e) A public key is the most secure protocol, because users never need to reveal thier private keys to other people. In doing so this lessens the chances of a cyber criminals being able to find a indivisuals secret private key and elimainates the key distributing problem. 
+
+Cyber Security and encryption//
+
+a) Cryptogtaphy is a meathod of protecting your information and communicating through the use of codes so that only those for whom the information is intended can read it. 
+The ceasar cipher is a encryption techniques. Its a substitution cipher where each letter in the original message is replaced with a letter corresponding to a certain number of letters shifted up or down in the alphabet. 
+b) Plaintext = The Brown Lazy Dog
+   Ciphertext = QEB YOLTK IXWV ALD
+   
+c)I wrote my name is eli and i like steak and mac and cheese. As i wrote that the letters went up the most freqently i hit a certain key. I think the fingerprints would be diffrent depending on alphabet and language that is being used. 
+
+d) This is like any cipher based substitution using multiple substitution alphabet. When encryting of the original text is done using the Vigenere table. This cipher uses mixed alphabet  to encrypt the plaintext, but at random points it would change to a diffrent mixed alphabet, indicating the change with an uppercase letter in a ciphertext. 
+
+e) Well i wrote hello my name is eli and is like to drink coffee. Then i decrypt the message and it gave me this result "zzzz zz zzzz zz zzz sir w wvlq bbawlz". Then when i encrypted the message I  got thid result " pjxxd zx bbzj rl isp u avjs dbkoxj". Also at the bottem of the screen it displays the all the letters through a - z and it shows all the keys you used the most to type out the secret message. 
+
+Brute force//
+A brute force attack is when the attacker tries every possible decryption code for the cipher. Kerckhoffs princible relates to this becuase even if the enemy knows the system the part that keeps the mesage a secret is the key. 
+
+
+
