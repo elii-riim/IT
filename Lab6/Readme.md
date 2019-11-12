@@ -30,3 +30,16 @@ a) Tim Berners-Lee inventer of the world wide web. The world wide web was create
 
 b) I feel as if web desighn and applivation is pretty impotant, because this part of the creating process is what the user is going too see and it is the visual part of the program or the webpage. This is what everyone is going too see. Its not the most important part but it is imortant because if your web designing looks basic or unproffesional its not going to be attractive to your users visting your webpage or using your application. 
 
+HTML and XML ///
+i) XML is a mark up language but it does not display anthing on the screen like how html does. The diffrence between xml and html is that xml is meant to send/recieve data and tags are not predifined like html. Then html is used to display data onto the screen for you to see.
+
+Components of a URL ///
+Scheme = Scheme goes with https because a scheme is a address that tells your browser where to go too. But typically a web browser will take you too a http or a https.
+
+Domain = Domain goes with result of search because when you search up a website you will see the same domain name of the webpage for all the diffrent pages of the site.
+
+Top level domain = Top level domain assosiates with .edu because when you go on too a website and you look at the domain and look at the end of it will say .com, .gov, and edu or something along those lines. This identifies what kind of website it is.
+
+Parameters = Parameters goes with no file path because after you look at the domain there will be a long line part of the url with random letters, numbers, and symbols that beguins with a question mark  which the parameter string. 
+
+Anchor = A anchor is at the end of url and what this does it tells your browser where to scroll or load a specific part of the website you are visiting it is pretty much used as a bookmark for a website. 
