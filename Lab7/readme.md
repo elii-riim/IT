@@ -9,3 +9,7 @@ OBJECT ORIENTED PROGRAMMING ///
 i) They are using a constructor meathod for the shark, and the properties for the shark are the shark is swimming and the shark is a being awesome. 
 ii) A constructor is a kind a meathod that when called it uses the defintion found in your class. Constructors perform task such as initalizing any instance varibles that the object will need when its called upon. 
 iii) A class is a pretty much like a template for the objects you are going to create. A class defines a object properties including a valid range of values, and a defult value. A object is simply a collection of data and methods that act on those data. When instantiate and object from a class is when you instantiate an instance of the class and give that instance a name by which you will refer to it whe accessing members and calling meathod. 
+
+ii) A meathod that initializes an object of that type in any object oriented language like python. 
+
+iii) The diffrence between a class and a object is that a class is a template for a object. A class pretty much defines the objects properties including a valid range of values. A object is a collection of data and meathods that act on those datas when called upon. When you instantiate an object you are creating an instance for an object. This is given a name and created memory or on a disk using the structure described within a class declaration. 
