@@ -13,3 +13,8 @@ iii) A class is a pretty much like a template for the objects you are going to c
 ii) A meathod that initializes an object of that type in any object oriented language like python. 
 
 iii) The diffrence between a class and a object is that a class is a template for a object. A class pretty much defines the objects properties including a valid range of values. A object is a collection of data and meathods that act on those datas when called upon. When you instantiate an object you are creating an instance for an object. This is given a name and created memory or on a disk using the structure described within a class declaration. 
+
+UNIFIED LANGUAGE ///
+
+i) OMG is an international, open membership, not for profit technology standards consortium, that was found in 1989.
+UML is a diagramm it is used to visually demonstrate a system the process and the steps you plan on taking movind foward. 
