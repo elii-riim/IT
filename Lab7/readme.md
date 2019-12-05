@@ -18,3 +18,11 @@ UNIFIED LANGUAGE ///
 
 i) OMG is an international, open membership, not for profit technology standards consortium, that was found in 1989.
 UML is a diagramm it is used to visually demonstrate a system the process and the steps you plan on taking movind foward. 
+
+ii) Oject is the Shark.
+Class is everything in the class and the blueprint of the object shark.
+Abstraction is swim.
+Encapsulation is the def main
+Inheritance is Sammy
+
+
